@@ -1,0 +1,9 @@
+{
+	"name": "deletabledf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "13958a39-8212-4a62-89b9-260d5ad9b453",
+		"tenantId": "513294a0-3e20-41b2-a970-6d30bf1546fa"
+	}
+}
